@@ -1,4 +1,4 @@
-### Hello Friend! - I'm Wagner (Wednesday) 👋
+### Hello Friend! - I'm Wednesday 👋
 
 ##
 
