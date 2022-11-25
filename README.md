@@ -4,9 +4,9 @@
 
 <div align="center">
   <a href="https://github.com/wednesday-rip">
-    
-  <img height="160em" src="https://github-readme-stats.vercel.app/api?username=wednesday-rip&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
-  <img height="160em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=wednesday-rip&layout=compact&langs_count=10&theme=dark"/>
+    <img height="150em" src="https://github-readme-stats.vercel.app/api?username=wednesday-rip&count_private=true&include_all_commits=true&show_icons=true&theme=dracula&hide_border=false&show_owner=true"/>
+    <img height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=wednesday-rip&theme=dracula&hide_border=false&&layout=compact"/>
+  </a>
 </div>
 
 <div style="display: inline_block"><br>
